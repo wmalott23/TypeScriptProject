@@ -26,3 +26,12 @@ function addOrSubtract(b: number, c: boolean): number {
 function add(t: number, r: number): number {
     return t + r;
 }
+// returns strings as well
+// function add(a: number, b: number) {
+//     return a+b
+//   }
+
+// this only returns arrays with numbers in it, no strings
+// function f(a: number[]): number[]{
+//     return a
+//   }
